@@ -34,7 +34,7 @@ Open Mic Guidelines:
 - Local artist sign-up sheet will be available in store starting at 9am on the day of the event
 - Each artist will have 2-3 minutes onstage
 ```
-### Use this format
+### Use this format and copy it within the "eventInfo" div below the last p tag
 ```
 <strong>Open Mic Guidelines:</strong>
           <ul>
@@ -42,13 +42,12 @@ Open Mic Guidelines:
             <li>Each artist will have 2-3 minutes onstage</li>
           </ul>                  
 ```
-### Copy this within the "eventInfo" div below the last <p> tag
 
-### If the Event Info requires a button, e.g. "Buy Tickets" use this format:
+### If the Event Info requires a button, e.g. "Buy Tickets" use this format and copy within the "eventInfo" div below the last element (likely a paragraph or list):
 ```
 <p><a href="http://www.thebabyshows.com/toronto/spring/visitors/buy-tickets" target="_blank" class="allButton">buy tickets</a></p>
 ```
-### Copy this within the "eventInfo" div below the last element (likely a paragraph or list)
 
-### Once the event has been updated check all links for accuracy and ensure that the event is linking to the correct host store
+### Once the event has been updated, check in the changes then check all links for accuracy and ensure that the event is linking to the correct host store
 
+### Send off to the Events team and give yourself a pat on the back!
