@@ -8,7 +8,7 @@ https://preview.indigo.ca/en-ca/events/listings/
 29936
 ```
 
-## The Events Team will usually provide the following information
+### The Events Team will usually provide the following information
 ![Image of Events Info](https://raw.githubusercontent.com/IndigoOnlineProduction/Events-page-update/master/Events%20Info.jpg)
 
 ### This information corresponds to:
