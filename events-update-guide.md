@@ -26,7 +26,7 @@ https://preview.indigo.ca/en-ca/events/listings/
 ### Find a similar event within the content block and copy in the information:
 ![Image of Events HTML block](https://static.indigoimages.ca/assetsexternal/events-html.jpg)
 
-### If the event features multiple authors/book covers/dates, simply copy the necessary sections and paste in the relevant information
+### If the event features multiple authors/book covers/dates, simply copy the relevant sections/elements and paste in the necessary information
 
 ### If the Event Info includes a list i.e.
 ```
